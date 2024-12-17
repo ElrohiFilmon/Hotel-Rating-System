@@ -1,0 +1,12 @@
+
+
+
+insert into RoomStatus values (1, 5, 8, '2023-09-11');
+insert into RoomStatus values (2, 2, 9, '2023-09-08');
+insert into RoomStatus values (3, 4, 6, '2023-07-20');
+insert into RoomStatus values (4, 1, 10, '2023-09-01');
+insert into RoomStatus values (5, 3, 7, '2023-09-10');
+ 
+ select * from RoomStatus
+
+
